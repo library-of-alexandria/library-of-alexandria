@@ -14,6 +14,8 @@ Math and science have become too big for individuals. We find it hard to keep up
 * Active learning (predict experiments)
 * UCB algorithm for allocating grant money (explore-exploit)
 * Tree search through proofs
+* Automated journal reviewed by AI
+* Automated uni courses. 
 
 ### The data
 
@@ -38,6 +40,10 @@ Math and science have become too big for individuals. We find it hard to keep up
 
 ### Deeper questions
 
-* What makes something true?
+* What makes something true? Evidence and only a single theory that fits the evidence.
 * Math is weird. Since it all follows logical ... ? What we are looking for is things that are; beautiful, interpretable, have an intuitive explanation, clearly apply in the real world, examples, ...?
-* 
+* What makes good scientific research? Removing uncertainty, increasing possibilities (new questions), ???, ...
+
+### ?
+
+> A theory is the compression of facts.
