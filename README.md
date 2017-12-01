@@ -1,5 +1,3 @@
-# library-of-alexandria
-
 Automated science and math.
 
 Math and science have become too big for individuals. We find it hard to keep up and to cram the relevant knowledge into our small heads. We need better tools to continue push the boundaries.
@@ -43,6 +41,6 @@ Math and science have become too big for individuals. We find it hard to keep up
 * Math is weird. Since it all follows logical ... ? What we are looking for is things that are; beautiful, interpretable, have an intuitive explanation, clearly apply in the real world, examples, ...?
 * What makes good scientific research? Removing uncertainty, increasing possibilities (new questions), ???, ...
 
-### ?
+### Background
 
 > A theory is the compression of facts.
