@@ -7,12 +7,11 @@ Math and science have become too big for individuals. We find it hard to keep up
 ### Potential projects
 
 * Automatic meta-analysis: cluster papers on the same topic, extract results, weight by reliability, integrate.
-* Summarisation, distillation and explanation
-* Compression
+* Summarisation, distillation and explanation.
 * Clustering: find similar ideas across different fields
-* Truth propagation 
+* Truth propagation. A graph of theories, that is pruned with evidence, ...
 * Active learning (predict experiments)
-* UCB algorithm for allocating grant money (explore-exploit)
+* UCB algorithm for allocating grant money (explore-exploit). Matching researchers and grants?
 * Tree search through proofs
 * Automated journal reviewed by AI
 * Automated uni courses. 
@@ -21,7 +20,7 @@ Math and science have become too big for individuals. We find it hard to keep up
 
 * Get papers from arxiv (or similar? biovix, sci-hub)
 * Create new DS for parsed papers? And then manually label a bunch of papers myself?
-* Math databases?
+* Math databases? Parse papers and construct a database? (e.g. for computational complexity?)
 
 ### Approach 1.0: Graphs
 
