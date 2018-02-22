@@ -11,6 +11,15 @@ There is a distinction between the scientific method (aka doing science) and wha
 Also, the scientific method, as commonly though of is incomplete. 
 Observe, hypothesise, falisfy, repeat...
 
+Three parts?
+
+* The processes that disentangle truth from data. (must be accurate)
+* The integration and representation of knowledge. (must be accessible)
+* The querying of the real world. (must be ?)
+* (others? - exploration of the unknown?)
+
+Reducing knowledge to distinct packets of knowledge.
+
 This only considers what you should do once you have found an interesting question you want answered. First definitions need to be made, (is this really true?) 
 
 * What makes something true? Evidence and only a single theory that fits the evidence.
