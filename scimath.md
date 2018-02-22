@@ -54,15 +54,6 @@ This only considers what you should do once you have found an interesting questi
 * Understanding in others
 * Application in the real world. Make lives better.
 
-## What are the problems?
-
-* Assigning credit/resources.
-* Incentives for reproduction.
-* Benchmarks
-* Standardised ?
-* ?
-
-
 ***
 
 ### Graph representations of papers/science
@@ -84,13 +75,7 @@ This only considers what you should do once you have found an interesting questi
 ### Benchmarks
 
 
-### Collecting evidence
-
-* Parse papers and pick out the evidence. 
-* A search engine for evidence. 
-  * Query(smoking, cancer) -> fn(p(cancer) = m\*smoking + c)
-  * Query(gravity) -> ???
-
+### 
 ***
 
 Case studies on different parts of science.
@@ -105,19 +90,19 @@ Aka automated datascience?
 
 ## De-novo drug design
 
-?
 
 
 ***
 
-
 ### Useful projects (in the short term)
 
-* Automatic meta-analysis: cluster papers on the same topic, extract results, weight by reliability, integrate.
-* Clustering: find similar ideas across different fields
-* UCB algorithm for allocating grant money (explore-exploit). Matching researchers and grants?
+* Clustering. Meta-analysis, 
+* Matching algorithms. Researchers and grants, students and advisors, potential collaborators, ... 
 * Tree search through proofs
-* Automated journals,
+* Credit assignment
+* Collecting evidence. Parse papers and pick out the evidence for a given theory (a search engine).
+* 
+
 
 ***
 
@@ -125,6 +110,6 @@ Aka automated datascience?
 * Truth propagation. A graph of theories, that is pruned with evidence, ...
 * Active learning (predict experiments)
 * Automated education.
-
-
+* Automated journals,
+* ?
 
