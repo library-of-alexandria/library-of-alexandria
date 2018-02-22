@@ -1,8 +1,10 @@
-## Hypotheses and explanations
+## Hypotheses and explanations (The scientific method)
+
+What makes something true?
 
 * Generate hypotheses, test them.
 * Disentangle atomic factors.
-* 
+* ?
 
 learning to abduct (can be broken up further. ILP then using that to abduct?)
 
@@ -29,7 +31,7 @@ Candidate problem(s);
 
 * Designing experiments. But specific to the real world. Need to be safe, need to trade off feasibility, need to manage many in parallel, need to maximise use of resources, 
 * What is important? This is where we need to guide it? We want to not just understand the world, but preferably find 'impactful' knowledge first?
-* Automated collection of data.
+* Automated collection of data. But cannot just collect everything...
 
 ***
 
