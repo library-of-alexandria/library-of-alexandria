@@ -26,3 +26,12 @@ This is where we need to guide it? We want to not just understand the world, but
 <!-- What about;
 - collecting data? 
 -->
+
+***
+
+Possible paths to ???;
+
+* jorunalism. Solution to fake news. Predict truithiness of articles, explain reasoning, cite sources of evience. Financial incentive to be more accurate.
+* law. 
+* science. 
+
