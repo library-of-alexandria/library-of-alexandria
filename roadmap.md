@@ -1,37 +1,40 @@
-What is science? What do scientists do? What tasks are we automating?
-
 ## Hypotheses and explanations
 
-Generate hypotheses, test them against
+* Generate hypotheses, test them.
+* Disentangle atomic factors.
+* 
 
 learning to abduct (can be broken up further. ILP then using that to abduct?)
 
-Candidate problem: Chess.
-Atari. (Do the atari games have their rules in some nice standard format? what constitutes a rule?)
+Candidate problems; 
+* Chess (b.c. ...).
+* Atari. (Do the atari games have their rules in some nice standard format? what constitutes a rule?)
+* some kind of explanation task?
 
 ## Integrating new and existing knowledge
 
 Need a data structure!?
+Also need to add compression here?
 
-Integrate wikipedia, ? and academic papers (from arxiv/biorxiv)
+Candidate problem(s); 
 
-Candidate problem: Knowledge base construction and ?
+* Knowledge base construction from ?
+* WikiarXiv. Parse arxiv/similar to construct a relational database of research (similar to wikipathways/wikigenome/...). 
+  * Various proofs and their implications and relationship to assumptions.  
+  * Datasets and their relationship to models (ie accuracy) and to deeper problems.
+  * ?
+* ?
 
-## Designing experiments in the real world
+## Science in the real world
 
-This is the evidence gathering part of science. But specific to the real world. Need to be safe, need to trade off feasibility, need to manage many in parallel, need to maximise use of resources,
-
-This is where we need to guide it? We want to not just understand the world, but preferably find 'impactful' knowledge first?
-
-<!-- What about;
-- collecting data? 
--->
+* Designing experiments. But specific to the real world. Need to be safe, need to trade off feasibility, need to manage many in parallel, need to maximise use of resources, 
+* What is important? This is where we need to guide it? We want to not just understand the world, but preferably find 'impactful' knowledge first?
+* Automated collection of data.
 
 ***
 
-Possible paths to ???;
+Alternative paths;
 
 * jorunalism. Solution to fake news. Predict truithiness of articles, explain reasoning, cite sources of evience. Financial incentive to be more accurate.
-* law. 
-* science. 
+* law.
 
