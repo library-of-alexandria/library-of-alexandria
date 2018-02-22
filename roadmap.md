@@ -32,6 +32,7 @@ Candidate problem(s);
 * Designing experiments. But specific to the real world. Need to be safe, need to trade off feasibility, need to manage many in parallel, need to maximise use of resources, 
 * What is important? This is where we need to guide it? We want to not just understand the world, but preferably find 'impactful' knowledge first?
 * Automated collection of data. But cannot just collect everything...
+* Denoising, adding labels/correlating with other sources, ...
 
 ***
 
